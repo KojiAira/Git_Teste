@@ -25,7 +25,8 @@
 
     <script>
 function msg() {
-  alert("Você clicou no botão!");
+    alert("Você clicou no botão!!!!!!2");
+    alert("");
 }
     </script>
 </body>
