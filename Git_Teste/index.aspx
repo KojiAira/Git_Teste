@@ -4,12 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
-    <style type="text/css">
-        #TextArea1 {
-            height: 62px;
-        }
-    </style>
+    <title>Formulário de Teste</title>
 </head>
 <body style="height: 220px; width: 1016px">
     <form method="post" >
