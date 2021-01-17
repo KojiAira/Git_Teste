@@ -4,9 +4,9 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Formulário de Teste</title>
+    <title>Formulário de Teste 01</title>
 </head>
-<body style="height: 220px; width: 1016px">
+<body>
     <form method="post" >
         <div style="height: 217px">
             &nbsp;Nome:<br />
@@ -17,7 +17,6 @@
             &nbsp;<textarea id="TextArea1" cols="20" name="S1"></textarea>
         </div>
     </form>
-
     <script>
 function msg() {
     alert("Você clicou no botão!!!!!!2");
