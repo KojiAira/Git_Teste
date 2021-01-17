@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Formulário de Teste 01</title>
+    <title>Formulário de Teste</title>
 </head>
 <body>
     <form method="post" >
