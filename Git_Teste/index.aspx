@@ -1,12 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="index.aspx.vb" Inherits="Git_Teste.index" %>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>Formulário de Teste</title>
-</head>
-<body>
+﻿<body>
     <form method="post" >
         <div style="height: 217px">
             &nbsp;Nome:<br />
@@ -24,4 +16,3 @@ function msg() {
 }
     </script>
 </body>
-</html>
