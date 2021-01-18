@@ -1,8 +1,5 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="index.aspx.vb" Inherits="Git_Teste.index" %>
+﻿<!DOCTYPE html>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Formulario de Teste</title>
 </head>
@@ -25,4 +22,3 @@
         }
     </script>
 </body>
-</html>
