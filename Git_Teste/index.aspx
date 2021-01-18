@@ -1,4 +1,9 @@
-﻿<body>
+﻿<!DOCTYPE html>
+
+<head runat="server">
+    <title>Formulario de Teste</title>
+</head>
+<body>
     <form method="post" >
         <div style="height: 217px">
             &nbsp;Nome:<br />
